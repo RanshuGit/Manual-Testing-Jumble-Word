@@ -1,5 +1,5 @@
 # Software-Testing-Jumble-Word
-Jumble Word Game
+Jumble Word Game: 
 Tested this game and generated bug report.
 # Included:
 1. Test Plan
